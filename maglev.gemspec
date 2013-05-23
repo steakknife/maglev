@@ -16,5 +16,8 @@ Gem::Specification.new do |s|
 
   s.add_dependency "bubble-wrap"
   s.add_dependency "motion_support"
+  s.add_dependency "formotion"
+  s.add_dependency "routable"
+
   s.add_development_dependency 'rake'
 end
